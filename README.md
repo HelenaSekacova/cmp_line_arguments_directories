@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-# cmp_line_arguments_directoriess
+# cmp_line_arguments_directories
 Comparison of two folders provided by command line arguments included scheduled synchronization
 
 
